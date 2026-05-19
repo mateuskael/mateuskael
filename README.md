@@ -1,7 +1,3 @@
-Aqui está um README profissional, bem organizado e pronto para você copiar e colar no seu GitHub:
-
----
-
 # 👨‍💻 Mateus Kael
 
 Olá! Me chamo **Mateus Kael**, tenho 17 anos e sou estudante de tecnologia apaixonado por desenvolvimento e design.
