@@ -36,7 +36,3 @@ Busco evoluir como desenvolvedor, adquirindo experiência prática e criando pro
 ---
 
 ✨ *“Sempre aprendendo, sempre evoluindo.”*
-
----
-
-Se quiser, posso deixar ele ainda mais “estiloso” (com badges, ícones animados, GitHub stats, etc.) — é só falar 👍
